@@ -33,7 +33,14 @@ namespace WindowsFormsApp1
             misAlumnos.Agregar(miAlumno);
         }
     }
-
+    // estastasdgfzsdgfsxgvbasdxfbgzdxcbvxzcvbxcvbxcvbxzcvbxcvbxcvbxcvb
+    //xcvbxcvbxcvbxcvbx
+       // xc
+      //  vb
+      //  xcvb
+      //  xc
+      //  bx
+       // c
 
     
     
