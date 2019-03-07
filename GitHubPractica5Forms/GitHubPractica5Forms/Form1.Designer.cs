@@ -1,4 +1,4 @@
-﻿namespace GitHubPractica5Forms
+﻿namespace WindowsFormsApp1
 {
     partial class Form1
     {
