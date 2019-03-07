@@ -1,6 +1,6 @@
-﻿namespace Forma
+﻿namespace WindowsFormsApp1
 {
-    partial class Form
+    partial class Form1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -46,12 +46,13 @@
             // 
             // listaAlumnos
             // 
-            this.listaAlumnos.Location = new System.Drawing.Point(158, 196);
+            this.listaAlumnos.Location = new System.Drawing.Point(66, 229);
             this.listaAlumnos.Multiline = true;
             this.listaAlumnos.Name = "listaAlumnos";
             this.listaAlumnos.ReadOnly = true;
-            this.listaAlumnos.Size = new System.Drawing.Size(100, 20);
+            this.listaAlumnos.Size = new System.Drawing.Size(486, 163);
             this.listaAlumnos.TabIndex = 1;
+            this.listaAlumnos.TextChanged += new System.EventHandler(this.listaAlumnos_TextChanged);
             // 
             // aluNota
             // 
@@ -68,6 +69,7 @@
             this.button1.TabIndex = 3;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -90,7 +92,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(63, 196);
+            this.label3.Location = new System.Drawing.Point(63, 189);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(72, 13);
             this.label3.TabIndex = 6;
