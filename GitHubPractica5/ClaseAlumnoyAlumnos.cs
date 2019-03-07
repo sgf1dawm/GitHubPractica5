@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
     public partial class Form1 : Form
     {
         Alumnos misAlumnos = new Alumnos();
-
+        //hola//
         public Form1()
         {
             InitializeComponent();
@@ -33,7 +33,14 @@ namespace WindowsFormsApp1
             misAlumnos.Agregar(miAlumno);
         }
     }
-
+    // estastasdgfzsdgfsxgvbasdxfbgzdxcbvxzcvbxcvbxcvbxzcvbxcvbxcvbxcvb
+    //xcvbxcvbxcvbxcvbx
+       // xc
+      //  vb
+      //  xcvb
+      //  xc
+      //  bx
+       // c
 
     
     
